@@ -26,6 +26,8 @@ Select mode:
 
 
 w - check defined combos, stopping for alt tab to check background stuff
+
+
 r - rapid mode, no stopping to alt + tab
 
 The W option will go through each winkey <a-z> combo, pausing after each and pressing alt + tab, then releasing tab,
