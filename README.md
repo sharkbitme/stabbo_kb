@@ -40,3 +40,5 @@ The R option is pretty much the same as above but, it doesn't stop to bring up t
   
 # delays
 Some systems aren't exactly the most responsive, so depending on the target, might need to increase delays in the function.
+
+s/o to my dude
