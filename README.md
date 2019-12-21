@@ -15,7 +15,7 @@ If using the IDE Serialmonitor, set the option to 'no line ending'.
 Connect microusb data cable from the computer you are going to run the serial monitor/interface on to the usb programming port
 on the Due (closest to power connector), start up the IDE and open serial monitor. Next, connect the native usb port on the Due to the target machine.
 
-With Leonardo, you'll need a usb to serial cable or bridge (such as an FTDI TTL232R 3v3) and connect the TX and RX pins to the Leo appropriately. A power source to the Leo might be needed, depending on the situation. It should be noted that the Leo communicates over 'Serial1' instead of 'Serial' on the Due. For a Leo, use the 'stabbo_kb_leonardo' file in this repo.
+With Leonardo, you'll need a usb to serial cable or bridge (such as an FTDI TTL232R 3v3) and connect the TX and RX pins to the Leo appropriately. A power source to the Leo might be needed, depending on the situation. It should be noted that the Leo communicates over 'Serial1' instead of 'Serial' on the Due. For a Leo, use the find and replace functionality to do this in the IDE.
 
 Once connected via serial the current options are:
 
