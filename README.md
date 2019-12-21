@@ -17,8 +17,14 @@ on the Due (closest to power connector), start up the IDE and open serial monito
 
 With Leonardo, you'll need a usb to serial cable or bridge (such as an FTDI TTL232R 3v3) and connect the TX and RX pins to the Leo appropriately. A power source to the Leo might be needed, depending on the situation. It should be noted that the Leo communicates over 'Serial1' instead of 'Serial' on the Due. For a Leo, use the 'stabbo_kb_leonardo' file in this repo.
 
-Once connected via serial the current options are: 
+Once connected via serial the current options are:
+
+
+
+
 Select mode:
+
+
 w - check defined combos, stopping for alt tab to check background stuff
 r - rapid mode, no stopping to alt + tab
 
