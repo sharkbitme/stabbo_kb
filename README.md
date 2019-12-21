@@ -1,4 +1,4 @@
-#stabbo_kb
+# stabbo_kb
 is the codified version of one very famous disgruntled crustacean known for wielding a knife.
 
 Essentially, this arduino sketch 'stabs' at numerous windows keyboard shortcuts, that you define, to help identify any shortcuts for kiosk-mode
