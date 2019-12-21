@@ -19,7 +19,7 @@ With Leonardo, you'll need a usb to serial cable or bridge (such as an FTDI TTL2
 
 Once connected via serial the current options are: 
 Select mode:
-w - check winkey + a-z combos, stopping for alt tab to check background stuff
+w - check defined combos, stopping for alt tab to check background stuff
 r - rapid mode, no stopping to alt + tab
 
 The W option will go through each winkey <a-z> combo, pausing after each and pressing alt + tab, then releasing tab,
