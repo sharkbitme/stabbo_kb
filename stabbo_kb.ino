@@ -25,7 +25,7 @@ void usage() {
 }
 
 void fchar_range() {
-  Serial.println("Enter starting character for range, either in ASCII a:");
+  Serial.println("Enter starting character for range, in ASCII a:");
   int frchoice = -1;
   while (frchoice == -1) {
     frchoice = Serial.read();
