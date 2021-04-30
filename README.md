@@ -1,7 +1,9 @@
 # stabbo_kb
+#lol this is old, need to do bunch of refactoring and add improvements 
+
 is the codified version of one very famous disgruntled crustacean known for wielding a knife.
 
-Essentially, this arduino sketch 'stabs' at numerous windows keyboard shortcuts, that you define, to help identify any shortcuts for kiosk-mode
+this arduino sketch 'stabs' at numerous windows keyboard shortcuts, that you define, to help identify any shortcuts for kiosk-mode
 breakouts on windows systems.
 
 Ideal for use with an arduino due and leonardo (due is the better bet though, easier, and more program memory).
